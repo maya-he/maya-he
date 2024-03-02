@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, this is maya</h1>
-<p align="left"> Computer Science practitioner , specializing in Python programming, machine learning, and user interface design. I thrive on the challenges of solving complex problems and am deeply fascinated by the ever-evolving fields of AI and Machine Learning.</p>
+<p align="left"> Computer Science student , specializing in Python programming, machine learning, and user interface design. I thrive on the challenges of solving complex problems and am deeply fascinated by the ever-evolving fields of AI and Machine Learning.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
